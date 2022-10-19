@@ -1,2 +1,3 @@
 # ripple-transaction-dataset
-Description is in the submodule
+This folder conain the submodule from
+https://github.com/AnanKing/Ripple-Dataset.git
